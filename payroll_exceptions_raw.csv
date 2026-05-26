@@ -1,0 +1,51 @@
+Ticket ID,Date Submitted,Employee ID,Issue Description,Category,Region,Severity,SLA Target,Assigned To,Escalation Rule,Estimated Impact (USD),Status,Resolution Time (hrs)
+TK-1041,2024-05-01,EMP-0200,Salary not received,Salary,DE,Critical,4 hours,Sr. Payroll Analyst,Immediate — Ops Lead alerted,13476,At Risk,
+TK-1042,2024-05-01,EMP-0201,Incorrect tax code,Tax,UK,Critical,4 hours,Sr. Payroll Analyst,Immediate — Ops Lead alerted,7012,SLA Breach,
+TK-1043,2024-05-01,EMP-0202,Bank details not updated,Bank,US,Critical,4 hours,Sr. Payroll Analyst,Immediate — Ops Lead alerted,14087,SLA Breach,
+TK-1044,2024-05-02,EMP-0203,Sick pay not applied,Hours,SG,Critical,4 hours,Sr. Payroll Analyst,Immediate — Ops Lead alerted,9912,At Risk,
+TK-1045,2024-05-02,EMP-0204,Reimbursement paid to wrong account,Reimbursement,BR,Critical,4 hours,Sr. Payroll Analyst,Immediate — Ops Lead alerted,6582,At Risk,
+TK-1046,2024-05-02,EMP-0205,Duplicate payment issued,Salary,FR,Critical,4 hours,Sr. Payroll Analyst,Immediate — Ops Lead alerted,3434,SLA Breach,
+TK-1047,2024-05-03,EMP-0206,Benefits-in-kind not reported,Tax,AU,Critical,4 hours,Sr. Payroll Analyst,Immediate — Ops Lead alerted,9873,At Risk,
+TK-1048,2024-05-03,EMP-0207,Payment returned by beneficiary bank,Bank,JP,Critical,4 hours,Sr. Payroll Analyst,Immediate — Ops Lead alerted,7557,At Risk,
+TK-1049,2024-05-03,EMP-0208,Overtime hours not included,Hours,NL,High,1 business day,Payroll Analyst,If unassigned after 2h,2231,At Risk,
+TK-1050,2024-05-04,EMP-0209,Reimbursement paid to wrong account,Reimbursement,CA,High,1 business day,Payroll Analyst,If unassigned after 2h,1381,On Track,14
+TK-1051,2024-05-04,EMP-0210,Salary not received,Salary,IN,High,1 business day,Payroll Analyst,If unassigned after 2h,2056,On Track,45
+TK-1052,2024-05-04,EMP-0211,Incorrect tax code,Tax,MX,High,1 business day,Payroll Analyst,If unassigned after 2h,1583,At Risk,
+TK-1053,2024-05-05,EMP-0212,Routing number incorrect,Bank,DE,High,1 business day,Payroll Analyst,If unassigned after 2h,1011,On Track,71
+TK-1054,2024-05-05,EMP-0213,Hours not logged by manager,Hours,UK,High,1 business day,Payroll Analyst,If unassigned after 2h,1981,On Track,9
+TK-1055,2024-05-05,EMP-0214,Reimbursement paid to wrong account,Reimbursement,US,High,1 business day,Payroll Analyst,If unassigned after 2h,1433,On Track,11
+TK-1056,2024-05-06,EMP-0215,Duplicate payment issued,Salary,SG,High,1 business day,Payroll Analyst,If unassigned after 2h,913,At Risk,
+TK-1057,2024-05-06,EMP-0216,Benefits-in-kind not reported,Tax,BR,High,1 business day,Payroll Analyst,If unassigned after 2h,1994,On Track,46
+TK-1058,2024-05-06,EMP-0217,Wrong bank account used,Bank,FR,High,1 business day,Payroll Analyst,If unassigned after 2h,1593,On Track,22
+TK-1059,2024-05-07,EMP-0218,Holiday pay not calculated,Hours,AU,High,1 business day,Payroll Analyst,If unassigned after 2h,1502,At Risk,
+TK-1060,2024-05-07,EMP-0219,Reimbursement paid to wrong account,Reimbursement,JP,High,1 business day,Payroll Analyst,If unassigned after 2h,1605,On Track,29
+TK-1061,2024-05-07,EMP-0220,Salary not received,Salary,NL,High,1 business day,Payroll Analyst,If unassigned after 2h,1828,On Track,30
+TK-1062,2024-05-08,EMP-0221,Incorrect tax code,Tax,CA,High,1 business day,Payroll Analyst,If unassigned after 2h,1792,At Risk,
+TK-1063,2024-05-08,EMP-0222,IBAN format error,Bank,IN,High,1 business day,Payroll Analyst,If unassigned after 2h,1364,On Track,28
+TK-1064,2024-05-08,EMP-0223,Public holiday not accounted for,Hours,MX,High,1 business day,Payroll Analyst,If unassigned after 2h,2544,On Track,19
+TK-1065,2024-05-09,EMP-0224,Reimbursement paid to wrong account,Reimbursement,DE,High,1 business day,Payroll Analyst,If unassigned after 2h,1071,On Track,69
+TK-1066,2024-05-09,EMP-0225,Duplicate payment issued,Salary,UK,High,1 business day,Payroll Analyst,If unassigned after 2h,2894,At Risk,
+TK-1067,2024-05-09,EMP-0226,Benefits-in-kind not reported,Tax,US,Medium,2 business days,Payroll Analyst,At 80% SLA window,212,On Track,66
+TK-1068,2024-05-10,EMP-0227,Transfer rejected by bank,Bank,SG,Medium,2 business days,Payroll Analyst,At 80% SLA window,486,On Track,15
+TK-1069,2024-05-10,EMP-0228,Start date incorrect in system,Hours,BR,Medium,2 business days,Payroll Analyst,At 80% SLA window,448,On Track,9
+TK-1070,2024-05-10,EMP-0229,Reimbursement paid to wrong account,Reimbursement,FR,Medium,2 business days,Payroll Analyst,At 80% SLA window,405,On Track,68
+TK-1071,2024-05-11,EMP-0230,Salary not received,Salary,AU,Medium,2 business days,Payroll Analyst,At 80% SLA window,105,On Track,69
+TK-1072,2024-05-11,EMP-0231,Incorrect tax code,Tax,JP,Medium,2 business days,Payroll Analyst,At 80% SLA window,157,On Track,56
+TK-1073,2024-05-11,EMP-0232,Direct deposit failed,Bank,NL,Medium,2 business days,Payroll Analyst,At 80% SLA window,101,On Track,65
+TK-1074,2024-05-12,EMP-0233,Missing hours — week incorrect,Hours,CA,Medium,2 business days,Payroll Analyst,At 80% SLA window,154,On Track,39
+TK-1075,2024-05-12,EMP-0234,Reimbursement paid to wrong account,Reimbursement,IN,Medium,2 business days,Payroll Analyst,At 80% SLA window,411,On Track,20
+TK-1076,2024-05-12,EMP-0235,Duplicate payment issued,Salary,MX,Medium,2 business days,Payroll Analyst,At 80% SLA window,376,On Track,1
+TK-1077,2024-05-13,EMP-0236,Benefits-in-kind not reported,Tax,DE,Medium,2 business days,Payroll Analyst,At 80% SLA window,350,On Track,15
+TK-1078,2024-05-13,EMP-0237,Bank info missing from record,Bank,UK,Medium,2 business days,Payroll Analyst,At 80% SLA window,222,On Track,31
+TK-1079,2024-05-13,EMP-0238,Shift differential not applied,Hours,US,Medium,2 business days,Payroll Analyst,At 80% SLA window,143,On Track,9
+TK-1080,2024-05-14,EMP-0239,Reimbursement paid to wrong account,Reimbursement,SG,Medium,2 business days,Payroll Analyst,At 80% SLA window,165,On Track,71
+TK-1081,2024-05-14,EMP-0240,Salary not received,Salary,BR,Medium,2 business days,Payroll Analyst,At 80% SLA window,370,On Track,55
+TK-1082,2024-05-14,EMP-0241,Incorrect tax code,Tax,FR,Medium,2 business days,Payroll Analyst,At 80% SLA window,486,On Track,40
+TK-1083,2024-05-15,EMP-0242,Bank details not updated,Bank,AU,Low,3 business days,Support Staff,Weekly review only,86,On Track,58
+TK-1084,2024-05-15,EMP-0243,Sick pay not applied,Hours,JP,Low,3 business days,Support Staff,Weekly review only,28,On Track,44
+TK-1085,2024-05-15,EMP-0244,Reimbursement paid to wrong account,Reimbursement,NL,Low,3 business days,Support Staff,Weekly review only,49,On Track,29
+TK-1086,2024-05-16,EMP-0245,Duplicate payment issued,Salary,CA,Low,3 business days,Support Staff,Weekly review only,100,On Track,8
+TK-1087,2024-05-16,EMP-0246,Benefits-in-kind not reported,Tax,IN,Low,3 business days,Support Staff,Weekly review only,62,On Track,10
+TK-1088,2024-05-16,EMP-0247,Payment returned by beneficiary bank,Bank,MX,Low,3 business days,Support Staff,Weekly review only,82,On Track,28
+TK-1089,2024-05-17,EMP-0248,Overtime hours not included,Hours,DE,Low,3 business days,Support Staff,Weekly review only,93,On Track,61
+TK-1090,2024-05-17,EMP-0249,Reimbursement paid to wrong account,Reimbursement,UK,Low,3 business days,Support Staff,Weekly review only,44,On Track,13
