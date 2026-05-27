@@ -151,4 +151,4 @@ reimbursements automatically generate exception tickets in this workflow.
 *Built as an independent portfolio project. Designed with global payroll 
 operations complexity in mind — relevant to roles in Operations, 
 Implementation, Customer Success, and Product Operations at companies 
-like Deel, Remote, and Rippling.*
+like Deel, Remote, OyesterHR and Rippling.*
