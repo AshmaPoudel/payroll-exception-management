@@ -14,7 +14,7 @@ global payroll operations at scale.
 
 | Asset | Link |
 |-------|------|
-| 🎯 Interactive Dashboard | [Open Dashboard] (https://claude.ai/public/artifacts/97496e38-412e-4d77-bf99-1d80da0c133e) |
+| 🎯 Interactive Dashboard | [Open Dashboard](https://claude.ai/public/artifacts/97496e38-412e-4d77-bf99-1d80da0c133e) |
 | 📊 Live Command Center | [Open Looker Studio](https://datastudio.google.com/reporting/d6774274-3f24-4161-9839-1fa755a2fed4/page/LdXyF) |
 | 🌐 Project Summary Page | [Open Portfolio](https://payroll-exception-management.netlify.app/) |
 
