@@ -96,32 +96,29 @@ steps, and human-owned checkpoints — built in Whimsical.
 ---
 
 ## Project Structure
+
+```
 payroll-exception-management/
 │
-├── index.html                          # One-page project summary
-├── dashboard.jsx                       # React interactive dashboard
-├── payroll_exceptions_data.xlsx        # 51-row dataset with colour coding
-├── payroll_exceptions_raw.csv          # Raw data for import
-├── AI_Classified_Ticket_TK1092.pdf     # Sample AI classified ticket
-├── Payroll_Exception_Management_FlowChart.png   # Whimsical flowchart
-└── Payroll_Exception_Management_Looker.pdf      # Dashboard export
+├── index.html
+├── dashboard.jsx
+├── payroll_exceptions_data.xlsx
+├── payroll_exceptions_raw.csv
+├── AI_Classified_Ticket_TK1092.pdf
+├── Payroll_Exception_Management_FlowChart.png
+└── Payroll_Exception_Management_Looker.pdf
 
 ---
 
 ## How It Works End to End
-Employee submits issue (free text)
-↓
-AI reads description — extracts type, urgency, region
-↓
-Severity assigned — Critical / High / Medium / Low
-↓
-SLA clock starts — owner assigned automatically
-↓
-Human checkpoints — compliance, payroll approval, exceptions
-↓
-Issue resolved — CSAT captured — data logged to Google Sheets
-↓
-Looker Studio dashboard updates in real time
+
+1. Employee submits issue in free text
+2. AI reads description — extracts type, urgency, and region
+3. Severity assigned — Critical / High / Medium / Low
+4. SLA clock starts — owner assigned automatically
+5. Human checkpoints — compliance, payroll approval, exceptions
+6. Issue resolved — CSAT captured — data logged to Google Sheets
+7. Looker Studio dashboard updates in real time
 
 ---
 
