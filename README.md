@@ -97,7 +97,6 @@ steps, and human-owned checkpoints — built in Whimsical.
 
 ## Project Structure
 
-```
 payroll-exception-management/
 │
 ├── index.html
